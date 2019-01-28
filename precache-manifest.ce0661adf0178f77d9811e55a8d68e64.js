@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/culture-portal/static/media/branshteter_1.425abf17.jpg"
   },
   {
-    "revision": "69b51b4feadbe597ce77",
-    "url": "/culture-portal/static/css/main.1566dfab.chunk.css"
+    "revision": "46309dcd2a975b540474",
+    "url": "/culture-portal/static/css/main.9a09f9b1.chunk.css"
   },
   {
     "revision": "f84496fa22b76cecf94f7a2d9e15c78c",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/culture-portal/static/media/bazan_title.f090cea9.jpg"
   },
   {
-    "revision": "69b51b4feadbe597ce77",
-    "url": "/culture-portal/static/js/main.69b51b4f.chunk.js"
+    "revision": "46309dcd2a975b540474",
+    "url": "/culture-portal/static/js/main.46309dcd.chunk.js"
   },
   {
     "revision": "004a230ced60d88e2491eb24d6b4e617",
@@ -160,7 +160,7 @@ self.__precacheManifest = [
     "url": "/culture-portal/static/css/1.9b99f5da.chunk.css"
   },
   {
-    "revision": "8727848626707b563df5958a9c35b3e8",
+    "revision": "2339c0d5da2c51c20a7cc8f23446794a",
     "url": "/culture-portal/index.html"
   }
 ];

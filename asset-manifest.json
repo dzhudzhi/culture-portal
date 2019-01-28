@@ -1,7 +1,7 @@
 {
-  "main.css": "/culture-portal/static/css/main.1566dfab.chunk.css",
-  "main.js": "/culture-portal/static/js/main.69b51b4f.chunk.js",
-  "main.js.map": "/culture-portal/static/js/main.69b51b4f.chunk.js.map",
+  "main.css": "/culture-portal/static/css/main.9a09f9b1.chunk.css",
+  "main.js": "/culture-portal/static/js/main.46309dcd.chunk.js",
+  "main.js.map": "/culture-portal/static/js/main.46309dcd.chunk.js.map",
   "static/css/1.9b99f5da.chunk.css": "/culture-portal/static/css/1.9b99f5da.chunk.css",
   "static/js/1.0bdc9966.chunk.js": "/culture-portal/static/js/1.0bdc9966.chunk.js",
   "static/js/1.0bdc9966.chunk.js.map": "/culture-portal/static/js/1.0bdc9966.chunk.js.map",
@@ -9,7 +9,7 @@
   "runtime~main.js.map": "/culture-portal/static/js/runtime~main.797d2007.js.map",
   "static/media/dashkevich_4.jpg": "/culture-portal/static/media/dashkevich_4.98f115ea.jpg",
   "static/media/style.css": "/culture-portal/static/media/showcase.4b31330b.jpg",
-  "static/media/main-page-background.jpg": "/culture-portal/static/media/main-page-background.5d1a2dd4.jpg",
+  "static/media/list.css": "/culture-portal/static/media/main-page-background.5d1a2dd4.jpg",
   "static/media/barsukov_1.jpg": "/culture-portal/static/media/barsukov_1.20733313.jpg",
   "static/media/barsukov_2.jpg": "/culture-portal/static/media/barsukov_2.a9db53c0.jpg",
   "static/media/barsukov_3.jpg": "/culture-portal/static/media/barsukov_3.aee80e91.jpg",
@@ -42,9 +42,9 @@
   "static/media/shmerling_4.jpg": "/culture-portal/static/media/shmerling_4.76fe0015.jpg",
   "static/media/shmerling_5.jpg": "/culture-portal/static/media/shmerling_5.25bbcc65.jpg",
   "static/media/shmerling_title.jpg": "/culture-portal/static/media/shmerling_title.f84496fa.jpg",
-  "static/css/main.1566dfab.chunk.css.map": "/culture-portal/static/css/main.1566dfab.chunk.css.map",
+  "static/css/main.9a09f9b1.chunk.css.map": "/culture-portal/static/css/main.9a09f9b1.chunk.css.map",
   "static/css/1.9b99f5da.chunk.css.map": "/culture-portal/static/css/1.9b99f5da.chunk.css.map",
   "index.html": "/culture-portal/index.html",
-  "precache-manifest.e84b221486b55c635fb879fcef70fb6c.js": "/culture-portal/precache-manifest.e84b221486b55c635fb879fcef70fb6c.js",
+  "precache-manifest.ce0661adf0178f77d9811e55a8d68e64.js": "/culture-portal/precache-manifest.ce0661adf0178f77d9811e55a8d68e64.js",
   "service-worker.js": "/culture-portal/service-worker.js"
 }
