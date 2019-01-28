@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "425abf173ae14333673785797102db0b",
-    "url": "/culture-portal/static/media/branshteter_1.425abf17.jpg"
+    "revision": "f090cea91db7f34c23864b6f2e5e8278",
+    "url": "/culture-portal/static/media/bazan_title.f090cea9.jpg"
   },
   {
-    "revision": "46309dcd2a975b540474",
-    "url": "/culture-portal/static/css/main.9a09f9b1.chunk.css"
+    "revision": "fded8e3a309a00ffbe2b",
+    "url": "/culture-portal/static/css/main.e2afd5b4.chunk.css"
   },
   {
     "revision": "f84496fa22b76cecf94f7a2d9e15c78c",
     "url": "/culture-portal/static/media/shmerling_title.f84496fa.jpg"
   },
   {
-    "revision": "0bdc9966a9754c21c888",
-    "url": "/culture-portal/static/js/1.0bdc9966.chunk.js"
+    "revision": "b3ae07170aa16966bd2d",
+    "url": "/culture-portal/static/js/1.b3ae0717.chunk.js"
   },
   {
     "revision": "797d2007d3eaafb03907",
@@ -24,12 +24,24 @@ self.__precacheManifest = [
     "url": "/culture-portal/static/media/showcase.4b31330b.jpg"
   },
   {
-    "revision": "77c5562cae1c71746251853a5f86573f",
-    "url": "/culture-portal/static/media/developer-anatolii.77c5562c.jpg"
+    "revision": "580976635204d01b6b97883de171444a",
+    "url": "/culture-portal/static/media/developer-pavel.58097663.jpg"
+  },
+  {
+    "revision": "8d46fa37a891e4bd06919c318bb763ab",
+    "url": "/culture-portal/static/media/developer-vladislav.8d46fa37.jpg"
+  },
+  {
+    "revision": "373a047d01374b2da17b1b89a3eb0dc0",
+    "url": "/culture-portal/static/media/developer-anatolii.373a047d.jpg"
   },
   {
     "revision": "5d1a2dd4134289522d9ea6a9a00e443d",
     "url": "/culture-portal/static/media/main-page-background.5d1a2dd4.jpg"
+  },
+  {
+    "revision": "55c6f810ac2f53e172e07c1d85e2f4f0",
+    "url": "/culture-portal/static/media/developer-artem.55c6f810.jpg"
   },
   {
     "revision": "207333139a01a154c123156827bad685",
@@ -76,12 +88,12 @@ self.__precacheManifest = [
     "url": "/culture-portal/static/media/bazan_5.c2f844cd.jpg"
   },
   {
-    "revision": "f090cea91db7f34c23864b6f2e5e8278",
-    "url": "/culture-portal/static/media/bazan_title.f090cea9.jpg"
+    "revision": "fded8e3a309a00ffbe2b",
+    "url": "/culture-portal/static/js/main.fded8e3a.chunk.js"
   },
   {
-    "revision": "46309dcd2a975b540474",
-    "url": "/culture-portal/static/js/main.46309dcd.chunk.js"
+    "revision": "425abf173ae14333673785797102db0b",
+    "url": "/culture-portal/static/media/branshteter_1.425abf17.jpg"
   },
   {
     "revision": "004a230ced60d88e2491eb24d6b4e617",
@@ -156,11 +168,11 @@ self.__precacheManifest = [
     "url": "/culture-portal/static/media/shmerling_5.25bbcc65.jpg"
   },
   {
-    "revision": "0bdc9966a9754c21c888",
-    "url": "/culture-portal/static/css/1.9b99f5da.chunk.css"
+    "revision": "b3ae07170aa16966bd2d",
+    "url": "/culture-portal/static/css/1.4b215866.chunk.css"
   },
   {
-    "revision": "2339c0d5da2c51c20a7cc8f23446794a",
+    "revision": "c6c4da247e5a2b46121b03722053c807",
     "url": "/culture-portal/index.html"
   }
 ];
