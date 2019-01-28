@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/culture-portal/static/media/branshteter_1.425abf17.jpg"
   },
   {
-    "revision": "6974f9297478983da8a2",
-    "url": "/culture-portal/static/css/main.7c06be4f.chunk.css"
+    "revision": "69b51b4feadbe597ce77",
+    "url": "/culture-portal/static/css/main.1566dfab.chunk.css"
   },
   {
     "revision": "f84496fa22b76cecf94f7a2d9e15c78c",
     "url": "/culture-portal/static/media/shmerling_title.f84496fa.jpg"
   },
   {
-    "revision": "283e29a54bee2ea8ad94",
-    "url": "/culture-portal/static/js/1.283e29a5.chunk.js"
+    "revision": "0bdc9966a9754c21c888",
+    "url": "/culture-portal/static/js/1.0bdc9966.chunk.js"
   },
   {
     "revision": "797d2007d3eaafb03907",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/culture-portal/static/media/bazan_title.f090cea9.jpg"
   },
   {
-    "revision": "6974f9297478983da8a2",
-    "url": "/culture-portal/static/js/main.6974f929.chunk.js"
+    "revision": "69b51b4feadbe597ce77",
+    "url": "/culture-portal/static/js/main.69b51b4f.chunk.js"
   },
   {
     "revision": "004a230ced60d88e2491eb24d6b4e617",
@@ -156,11 +156,11 @@ self.__precacheManifest = [
     "url": "/culture-portal/static/media/shmerling_5.25bbcc65.jpg"
   },
   {
-    "revision": "283e29a54bee2ea8ad94",
+    "revision": "0bdc9966a9754c21c888",
     "url": "/culture-portal/static/css/1.9b99f5da.chunk.css"
   },
   {
-    "revision": "24815314bfe098854f13ba4caa6be8c3",
+    "revision": "8727848626707b563df5958a9c35b3e8",
     "url": "/culture-portal/index.html"
   }
 ];
